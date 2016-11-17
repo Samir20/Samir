@@ -13,16 +13,27 @@ $darkGray: #333;
 $gray: #666;
 $lightGray: #eee;
 $white: #fff;
-$fresh: #4abdac;
-$vermillion: #fc4a1a;
-$sunshine: #f7b733;
-$clean: #dfdce3;
-
+$purple: #ff00ff;
+$orange: #ffcc66;
+$myblue: #6699ff;
+$green: #99ff66;
+$completeorange: #ff9933;
+$sandstone: #f4cc70;
+$burntorange: #de7a22;
+$sea: #20948b;
+$iagoon: #6ab187;
+$glacierblue: #137386;
+$overcast: #f1f1f2;
+$warmgray: #bcbabe;
+$sand: #eab126;
+$ocean: #15b58f;
+$cocktail: #f24c4e;
+$palm: #1b7b34;
 // Font stacks
 $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
-
+$bluewithopacity: rgba(0, 0, 255, 0.7);  
 // Mobile breakpoints
 @mixin mobile {
   @media screen and (max-width: 640px) {
