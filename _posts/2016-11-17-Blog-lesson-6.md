@@ -38,19 +38,19 @@ published: true
     <td>Lesson Review</td>
   </tr>
   <tr>
-    <td>How did I learn? What strategies were effective? </td>
+    <th>How did I learn? What strategies were effective? </th>
   </tr>
   <tr>
     <td>I learnt by being able to apply EVEN MORE formulae into my virtual shop to add a certain percentage on my stock when someone purchases it.</td>
   </tr>
   <tr>
-    <td>What limited my learning? Which habits do I need to work on? </td>
+    <th>What limited my learning? Which habits do I need to work on? </th>
   </tr>
   <tr>
     <td>What limited my learning was that i put an overly expensive amount of tax on my items by accident of 175% when I meant to put 17.5% as that is roughly the charge of VAT these days. However i managed to overcome this by realising my mistake and undoing the wrong.</td>
   </tr>
   <tr>
-    <td>What will I change for next time? How will I improve my learning?</td>
+    <th>What will I change for next time? How will I improve my learning?</th>
   </tr>
   <tr>
     <td>For next time I will be extra careful when entering certain figures with decimal places because it can make a big difference in price.  </td>
