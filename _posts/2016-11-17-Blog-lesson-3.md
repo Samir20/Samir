@@ -38,19 +38,19 @@ published: true
     <td>Lesson Review</td>
   </tr>
   <tr>
-    <td>How did I learn? What strategies were effective? </td>
+    <th>How did I learn? What strategies were effective? </th>
   </tr>
   <tr>
     <td>We went into the other IT classroom and listened to one of the other IT teachers. I took a lot of notes from this lesson onto the spare pages in my homework diary.  </td>
   </tr>
   <tr>
-    <td>What limited my learning? Which habits do I need to work on? </td>
+    <th>What limited my learning? Which habits do I need to work on? </th>
   </tr>
   <tr>
     <td>I think i took so many notes down i couldn't fully keep up resulting in a fault on my notes somewhere along on the line. </td>
   </tr>
   <tr>
-    <td>What will I change for next time? How will I improve my learning?</td>
+    <th>What will I change for next time? How will I improve my learning?</th>
   </tr>
   <tr>
     <td>I will make sure to only take down the most important notes and make my notes more brief but still understandable.</td>
