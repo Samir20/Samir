@@ -38,19 +38,19 @@ published: true
     <td>Lesson Review</td>
   </tr>
   <tr>
-    <td>How did I learn? What strategies were effective? </td>
+    <th>How did I learn? What strategies were effective? </th>
   </tr>
   <tr>
     <td>I learnt how you can use excel to highlight different tables. Once you've done this the computer does the other sums for you. I watched my IT teacher do the steps fully at the front of the class and then closely follow and do the same. It was a bit confusing so i stuck my hand up when i got confused and i got helped untangling my brains knot.</td>
   </tr>
   <tr>
-    <td>What limited my learning? Which habits do I need to work on? </td>
+    <th>What limited my learning? Which habits do I need to work on? </th>
   </tr>
   <tr>
     <td>What limited my learning was getting abit confused by the different equations having to be put into the excel bar above the spreadsheet.</td>
   </tr>
   <tr>
-    <td>What will I change for next time? How will I improve my learning?</td>
+    <th>What will I change for next time? How will I improve my learning?</th>
   </tr>
   <tr>
     <td>I will focus really hard on the equations so i don't put an incorrect character in the equation line.</td>
