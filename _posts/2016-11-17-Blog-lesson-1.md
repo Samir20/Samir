@@ -38,19 +38,19 @@ published: true
     <td>Lesson Review</td>
   </tr>
   <tr>
-    <td>How did I learn? What strategies were effective? </td>
+    <th>How did I learn? What strategies were effective? </th>
   </tr>
   <tr>
     <td>I learnt by watching a demonstration at the front of the classroom led by one of my IT teachers. I learnt how to publish blogs using gabriel on google docs and submitting the doc into the posts file on github.</td>
   </tr>
   <tr>
-    <td>What limited my learning? Which habits do I need to work on? </td>
+    <th>What limited my learning? Which habits do I need to work on? </th>
   </tr>
   <tr>
     <td>I need to work on not getting distracted by others github pages and focus on my own. I also should have remembered to take a notepad or my ipad to take notes down.</td>
   </tr>
   <tr>
-    <td>What will I change for next time? How will I improve my learning?</td>
+    <th>What will I change for next time? How will I improve my learning?</th>
   </tr>
   <tr>
     <td>I will remember to take a notepad and focus on my learning in class by not getting distracted by others. als</td>
