@@ -38,19 +38,19 @@ published: true
     <td>Lesson Review</td>
   </tr>
   <tr>
-    <td>How did I learn? What strategies were effective? </td>
+    <th>How did I learn? What strategies were effective? </th>
   </tr>
   <tr>
     <td>I learnt by watching my teacher perform a demonstration about how he managed to add workers to his shop add give them a wage. I took several notes on this so i could repeat these steps on my virtual shop as well.</td>
   </tr>
   <tr>
-    <td>What limited my learning? Which habits do I need to work on? </td>
+    <th>What limited my learning? Which habits do I need to work on? </th>
   </tr>
   <tr>
     <td>What limited my learning was being able to put a wage that adds up so instead I just put an overall wage per year.</td>
   </tr>
   <tr>
-    <td>What will I change for next time? How will I improve my learning?</td>
+    <th>What will I change for next time? How will I improve my learning?</th>
   </tr>
   <tr>
     <td>Next time i should try to achieve my target of setting them a wage that adds up more by taking more detailed notes and trying harder and if worse comes to worst, ask a teacher for help.</td>
