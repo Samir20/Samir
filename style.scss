@@ -23,7 +23,7 @@ body {
   background-attachment: fixed;
 
   font: 18px/1.4 $helvetica;
-  color: $white;
+  color: $sea;
 }
 
 .container {
@@ -38,17 +38,17 @@ table, td {
     border: 2px solid black;
     border-collapse: collapse;
     padding: 15px;
-    background-color: $fresh;
+    background-color: $iagoon;
 	opacity: 1.0;
 }
 
 th {
-	background-color: $vermillion;
+	background-color: $glacier;
 }
 	
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $clean;
+  color: $overcast;
   font-weight: bold;
   &:hover, &:active {
 	  color: $black;
